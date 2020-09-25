@@ -21,7 +21,7 @@ By doing this you can have a cleaner Tape with less entry, while not losing anyt
 
 | Program | Files To extract |
 | ------ | ------ |
-| WinRar | All the files showned |
+| WinRar | All the files shown |
 | 7-Zip | Open $PLUGINSDIR and then app-64.7z then select all the files |
 
 * Extract all the files in an empty folder.
@@ -36,7 +36,7 @@ By doing this you can have a cleaner Tape with less entry, while not losing anyt
 
 | Program | Files To extract |
 | ------ | ------ |
-| WinRar | All the files showned |
+| WinRar | All the files shown |
 | 7-Zip | Open "$PLUGINSDIR" and then "app-64.7z" then select all the files |
 
 * Extract all the files but "Tape.exe" and place them in your Tape folder (Yes, Replace the files in the destination folder)
