@@ -25,7 +25,7 @@ By doing this you can have a cleaner Tape with less entry, while not losing anyt
 | 7-Zip | Open $PLUGINSDIR and then app-64.7z then select all the files |
 
 * Extract all the files in an empty folder.
-* Download the [MultyTape.exe](https://github.com/Super99Master/MultyTape/raw/master/PortableTape.exe) and place it in the same folder
+* Download the [MultyTape.exe](https://github.com/Super99Master/MultyTape/raw/master/MultyTape.exe) and place it in the same folder
 * Run it
 * From now on Tape is going to be confined in that folder. Feel free to Move it on a Usb or a Sync Folder.
 
