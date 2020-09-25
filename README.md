@@ -1,19 +1,19 @@
 # Multy Tape
-Multy Tape is [Portable Tape](https://github.com/Super99Master/Portable_Tape) 2.0
-It has the same function as Portable Tape plus a way to have multiple SaveState at the same time. 
-To switch between projects, you need to specify the name of the project as parameter of the .exe
-Example: "Tape.exe -Project=TheGame"
+Multy Tape is [Portable Tape](https://github.com/Super99Master/Portable_Tape) 2.0  
+It has the same function as Portable Tape plus a way to have multiple SaveState at the same time.  
+To switch between projects, you need to specify the name of the project as parameter of the .exe  
+Example: "Tape.exe -Project=TheGame"  
 
 ## How to use Multy Tape
 
-If you are using MultyTape only to make Tape portable then you just need to keep using Tape as you always did.
-If you want to use the SaveState functions then you need to specify the project to open when lunching Tape.exe.
-Example: "Tape.exe -Project=TheGame"
+If you are using MultyTape only to make Tape portable then you just need to keep using Tape as you always did. 
+If you want to use the SaveState functions then you need to specify the project to open when lunching Tape.exe.  
+Example: "Tape.exe -Project=TheGame"  
 
-The intended way to use MultyTape is via Shortcuts.
-By creating and adding "-Project=YourProject" to the shortcut you can easily have different shortcut that loads different SaveStates.
-If you are working on 2+ Projects and you don't want to keep 1 Big SaveState you can create 2 custom Shortcuts and place them in their respective project folder.
-By doing this you can have a cleaner Tape with less entry, while not losing anything.
+The intended way to use MultyTape is via Shortcuts. 
+By creating and adding "-Project=YourProject" to the shortcut you can easily have different shortcut that loads different SaveStates.  
+If you are working on 2+ Projects and you don't want to keep 1 Big SaveState you can create 2 custom Shortcuts and place them in their respective project folder.  
+By doing this you can have a cleaner Tape with less entry, while not losing anything.  
 
 ## Installation
 * Download [Aeriform Tape](https://www.aeriform.io/docs/tape)
@@ -64,5 +64,5 @@ The last thing it does **IF ENABLED** it deletes *%appdata%/Tape*. Deleting the 
 * Save
 
 ## TODO ?
-Make the code more readable.
+Make the code more readable.  
 Tbh idk if i'm gonna do it. Like the code is pretty small and easy to read it's just very unaesthetic.
